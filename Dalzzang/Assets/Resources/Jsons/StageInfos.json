@@ -1,0 +1,812 @@
+[
+  {
+    "Name": "B-55",
+    "Timeout": 10,
+    "Exp": 100,
+    "EnemyCount": 1,
+    "EnemyIdx": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      5,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BF-2434",
+    "Timeout": 30,
+    "Exp": 200,
+    "EnemyCount": 2,
+    "EnemyIdx": [
+      1,
+      2,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      4,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BA-4234",
+    "Timeout": 30,
+    "Exp": 200,
+    "EnemyCount": 2,
+    "EnemyIdx": [
+      1,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      4,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BE-4324",
+    "Timeout": 30,
+    "Exp": 200,
+    "EnemyCount": 2,
+    "EnemyIdx": [
+      1,
+      4,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      4,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "Bv-4342",
+    "Timeout": 30,
+    "Exp": 200,
+    "EnemyCount": 2,
+    "EnemyIdx": [
+      1,
+      5,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      4,
+      4,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "D-23",
+    "Timeout": 30,
+    "Exp": 200,
+    "EnemyCount": 1,
+    "EnemyIdx": [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      3,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BFA-342",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      1,
+      2,
+      3,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      3,
+      4,
+      2,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      6,
+      6,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BFE-443",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      1,
+      2,
+      4,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      4,
+      4,
+      3,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      6,
+      6,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "BFv-444",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      1,
+      2,
+      5,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      4,
+      4,
+      4,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      6,
+      6,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "AEv-244",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      3,
+      4,
+      5,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      4,
+      4,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      5,
+      6,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "AD-23",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 2,
+    "EnemyIdx": [
+      3,
+      6,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      2,
+      3,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      5,
+      5,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "AED-343",
+    "Timeout": 40,
+    "Exp": 500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      3,
+      4,
+      6,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      3,
+      4,
+      3,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      5,
+      6,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "FAEv-5343",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      2,
+      3,
+      4,
+      5,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      3,
+      4,
+      3,
+      0
+    ],
+    "EnemyMax": [
+      7,
+      5,
+      6,
+      5,
+      0
+    ]
+  },
+  {
+    "Name": "FAED-5343",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      2,
+      3,
+      4,
+      6,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      3,
+      4,
+      3,
+      0
+    ],
+    "EnemyMax": [
+      7,
+      6,
+      7,
+      6,
+      0
+    ]
+  },
+  {
+    "Name": "FAvD-5434",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      2,
+      3,
+      5,
+      6,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      4,
+      3,
+      4,
+      0
+    ],
+    "EnemyMax": [
+      7,
+      6,
+      5,
+      6,
+      0
+    ]
+  },
+  {
+    "Name": "FEvD-6434",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      2,
+      4,
+      5,
+      6,
+      0
+    ],
+    "EnemyMin": [
+      6,
+      4,
+      3,
+      4,
+      0
+    ],
+    "EnemyMax": [
+      8,
+      7,
+      6,
+      7,
+      0
+    ]
+  },
+  {
+    "Name": "AEvD-5434",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      3,
+      4,
+      5,
+      6,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      4,
+      3,
+      4,
+      0
+    ],
+    "EnemyMax": [
+      7,
+      8,
+      6,
+      7,
+      0
+    ]
+  },
+  {
+    "Name": "FAEvD-54433",
+    "Timeout": 50,
+    "Exp": 800,
+    "EnemyCount": 5,
+    "EnemyIdx": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "EnemyMin": [
+      5,
+      4,
+      4,
+      3,
+      3
+    ],
+    "EnemyMax": [
+      7,
+      6,
+      7,
+      5,
+      5
+    ]
+  },
+  {
+    "Name": "FEi-8101",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      2,
+      4,
+      7,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      8,
+      10,
+      1,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      12,
+      15,
+      3,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "FvI-983",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      2,
+      5,
+      8,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      9,
+      8,
+      3,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      12,
+      12,
+      5,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "Ave-5101",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      3,
+      5,
+      9,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      10,
+      1,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      10,
+      12,
+      2,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "Evi-10102",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      4,
+      5,
+      7,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      10,
+      10,
+      2,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      13,
+      12,
+      4,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "vDI-1084",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 3,
+    "EnemyIdx": [
+      5,
+      6,
+      8,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      10,
+      8,
+      4,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      12,
+      10,
+      6,
+      0,
+      0
+    ]
+  },
+  {
+    "Name": "AEve-5662",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      3,
+      4,
+      5,
+      9,
+      0
+    ],
+    "EnemyMin": [
+      5,
+      6,
+      6,
+      2,
+      0
+    ],
+    "EnemyMax": [
+      8,
+      8,
+      8,
+      3,
+      0
+    ]
+  },
+  {
+    "Name": "EvDi-6663",
+    "Timeout": 60,
+    "Exp": 1500,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      4,
+      5,
+      6,
+      7,
+      0
+    ],
+    "EnemyMin": [
+      6,
+      6,
+      6,
+      3,
+      0
+    ],
+    "EnemyMax": [
+      8,
+      8,
+      7,
+      5,
+      0
+    ]
+  },
+  {
+    "Name": "AviI-1135",
+    "Timeout": 90,
+    "Exp": 3000,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      3,
+      5,
+      7,
+      8,
+      0
+    ],
+    "EnemyMin": [
+      10,
+      10,
+      3,
+      5,
+      0
+    ],
+    "EnemyMax": [
+      12,
+      15,
+      5,
+      8,
+      0
+    ]
+  },
+  {
+    "Name": "ADIe-1133",
+    "Timeout": 90,
+    "Exp": 3000,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      3,
+      6,
+      8,
+      9,
+      0
+    ],
+    "EnemyMin": [
+      10,
+      10,
+      3,
+      3,
+      0
+    ],
+    "EnemyMax": [
+      15,
+      15,
+      5,
+      4,
+      0
+    ]
+  },
+  {
+    "Name": "FiIe-1563",
+    "Timeout": 90,
+    "Exp": 3000,
+    "EnemyCount": 4,
+    "EnemyIdx": [
+      2,
+      7,
+      8,
+      9,
+      0
+    ],
+    "EnemyMin": [
+      18,
+      5,
+      6,
+      3,
+      0
+    ],
+    "EnemyMax": [
+      22,
+      6,
+      7,
+      4,
+      0
+    ]
+  },
+  {
+    "Name": "FAiIe-11563",
+    "Timeout": 90,
+    "Exp": 3000,
+    "EnemyCount": 5,
+    "EnemyIdx": [
+      2,
+      3,
+      7,
+      8,
+      9
+    ],
+    "EnemyMin": [
+      10,
+      10,
+      5,
+      6,
+      3
+    ],
+    "EnemyMax": [
+      15,
+      15,
+      6,
+      7,
+      4
+    ]
+  },
+  {
+    "Name": "M-1",
+    "Timeout": 120,
+    "Exp": 5000,
+    "EnemyCount": 1,
+    "EnemyIdx": [
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMin": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "EnemyMax": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+]

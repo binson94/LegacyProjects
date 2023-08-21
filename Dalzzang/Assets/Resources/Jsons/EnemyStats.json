@@ -1,0 +1,62 @@
+[
+  {
+    "Name": "",
+    "HP": 0,
+    "Defense": 0,
+    "MoveSpeed": 0
+  },
+  {
+    "Name": "Basic",
+    "HP": 20,
+    "Defense": 0,
+    "MoveSpeed": 1
+  },
+  {
+    "Name": "Fast",
+    "HP": 35,
+    "Defense": 0,
+    "MoveSpeed": 3
+  },
+  {
+    "Name": "AttackSpeed",
+    "HP": 10,
+    "Defense": 2,
+    "MoveSpeed": 1.5
+  },
+  {
+    "Name": "Escape",
+    "HP": 100,
+    "Defense": 0,
+    "MoveSpeed": 1
+  },
+  {
+    "Name": "Avoid",
+    "HP": 100,
+    "Defense": 1,
+    "MoveSpeed": 1.2
+  },
+  {
+    "Name": "Defense",
+    "HP": 50,
+    "Defense": 10,
+    "MoveSpeed": 1
+  },
+  {
+    "Name": "Divide",
+    "HP": 500,
+    "Defense": 10,
+    "MoveSpeed": 2
+  },
+  {
+    "Name": "Invinsible",
+    "HP": 400,
+    "Defense": 15,
+    "MoveSpeed": 3
+  },
+  {
+    "Name": "Defense++",
+    "HP": 350,
+    "Defense": 30,
+    "MoveSpeed": 2.2
+  }
+]
